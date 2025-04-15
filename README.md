@@ -14,9 +14,8 @@ Welcome to the System Zero engineering coding test! This project evaluates your 
 During this 60-90 minute technical interview, you will:
 
 1. Implement specific features in a pair programming session with the interviewer
-2. Work on integrating LLM capabilities into an existing NestJS application
-3. Handle streaming data and build API endpoints
-4. Make architectural and design decisions along the way
+2. Handle streaming data and build API endpoints
+3. Make architectural and design decisions along the way
 
 Important Guidelines:
 - Clearly communicate your thought process and reasoning behind technical decisions
